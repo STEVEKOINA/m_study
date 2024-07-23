@@ -1,4 +1,4 @@
-# laban_m_study
+# m_study
 
 A new Flutter project.
 
